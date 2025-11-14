@@ -12,7 +12,6 @@ I enjoy designing clean UI/UX, developing full-stack applications, and solving r
 
 * 🌍  I'm based in Tangalle, Sri Lanka
 * ✉️  You can contact me at [maheeshanethmina@gmail.com](mailto:maheeshanethmina@gmail.com)
-* 🚀  I'm currently working on [FurniQ – Online Furniture Store](http://github.com/Maheesha-Nethmina/FurniQ_forntend)
 * 🧠  I'm currently learning AWS Cloud, Docker, and advanced full-stack development
 * 👥  I'm looking to collaborate on I'm open to collaborating on full-stack projects using React, MERN, or Spring Boot.
 
