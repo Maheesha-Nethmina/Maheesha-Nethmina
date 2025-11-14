@@ -12,6 +12,7 @@ I enjoy designing clean UI/UX, developing full-stack applications, and solving r
 
 * 🌍  I'm based in Tangalle, Sri Lanka
 * ✉️  You can contact me at [maheeshanethmina@gmail.com](mailto:maheeshanethmina@gmail.com)
+* 🚀  I'm currently working on [FurniQ – Online Furniture Store](http://github.com/Maheesha-Nethmina/FurniQ_forntend)
 * 🧠  I'm currently learning AWS Cloud, Docker, and advanced full-stack development
 * 👥  I'm looking to collaborate on I'm open to collaborating on full-stack projects using React, MERN, or Spring Boot.
 
@@ -22,7 +23,8 @@ I enjoy designing clean UI/UX, developing full-stack applications, and solving r
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Maheesha-Nethmina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/maheesha-nethmina/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/maheesha.nethmina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Maheesha-Nethmina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesha-Nethmina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Maheesha-Nethmina"><img src="https://github-readme-stats.vercel.app/api?username=Maheesha-Nethmina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Maheesha-Nethmina's GitHub stats" /></a>
