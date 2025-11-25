@@ -57,22 +57,4 @@ I enjoy designing clean UI/UX, developing full-stack applications, and solving r
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="http://www.github.com/Maheesha-Nethmina">
-    <img src="https://github-readme-stats.vercel.app/api?username=Maheesha-Nethmina&show_icons=true&hide=stars,commits,prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Stats" />
-  </a>
-  <a href="http://www.github.com/Maheesha-Nethmina">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesha-Nethmina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak" />
-  </a>
-  
-  <br/>
-  
-  <a href="http://www.github.com/Maheesha-Nethmina">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheesha-Nethmina&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&title_color=0891b2&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
 </div>
